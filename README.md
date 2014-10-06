@@ -18,6 +18,7 @@ hubot > fuga
 
 ```
 npm install git://github.com/kasajei/hubot-respond.git
+echo '["hubot-respond"]' > external-scripts.json
 ```
 
 # Example
