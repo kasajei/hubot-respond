@@ -1,0 +1,24 @@
+{
+  "name": "hubot-respond",
+  "version": "0.0.1",
+  "description": "add hubot respod&hear easily",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kasajei/hubot-respond"
+  },
+  "keywords": [
+    "respond",
+    "hear",
+    "hubot"
+  ],
+  "author": "kasajei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kasajei/hubot-respond/issues"
+  },
+  "homepage": "https://github.com/kasajei/hubot-respond"
+}
